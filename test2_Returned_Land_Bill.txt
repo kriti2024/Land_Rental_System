@@ -1,0 +1,8 @@
+Customer Name: test2
+Action: Returned
+══════════════════════════════════════════════════════════
+Kitta Number    City/District        Direction       Area       Price          
+══════════════════════════════════════════════════════════
+101             Kathmandu            North           4          50000          
+══════════════════════════════════════════════════════════
+Total Price: 200000

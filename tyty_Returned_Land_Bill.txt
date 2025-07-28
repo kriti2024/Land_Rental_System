@@ -1,0 +1,9 @@
+Customer Name: tyty
+Action: Returned
+══════════════════════════════════════════════════════════
+Kitta Number    City/District        Direction       Area       Price          
+══════════════════════════════════════════════════════════
+101             Kathmandu            North           4          50000          
+103             Lalitpur             South           10         100000         
+══════════════════════════════════════════════════════════
+Total Price: 510000.0

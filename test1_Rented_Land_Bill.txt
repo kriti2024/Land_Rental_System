@@ -1,0 +1,8 @@
+Customer Name: test1
+Action: Rented
+══════════════════════════════════════════════════════════
+Kitta Number    City/District        Direction       Area       Price          
+══════════════════════════════════════════════════════════
+101             Kathmandu            North           4          50000          
+══════════════════════════════════════════════════════════
+Total Price: 250000
